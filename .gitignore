@@ -1,0 +1,13 @@
+# Python
+*.egg-info/
+*.pid
+*.pyc
+*.sqlite3
+.ipynb_checkpoints
+/*.egg-info
+/dist/
+/env/
+db.yaml
+
+
+*.json
